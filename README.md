@@ -10,7 +10,7 @@ Diese Erweiterung stellt die Onboardsensoren des Calliope mini V3 über die Jacd
 * Beschleunigung in x-,y-,z-Richtung in g
 * Lautstärke in %
 
-Einige Sachen laufen noch nicht! Hilfe/Fehlermeldungen/Tipps/Pull-requests erwünscht
+Habe bewusst die Buttons oder das Display nicht implementiert, damit es nicht zu unübersichtlich wird. (und weil ich zu faul bin)
 
 
 ![Screenshot](Onboardsensors.png)
