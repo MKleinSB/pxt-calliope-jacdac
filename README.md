@@ -19,7 +19,7 @@ Habe bewusst die Buttons oder das Display nicht implementiert, damit es nicht zu
 
 MIT License
 
-Copyright (c) 2023 M. Klein & Microsoft Corporation
+Copyright (c) 2024 M. Klein & Microsoft Corporation
 
 #### Metadaten (verwendet für Suche, Rendering)
 
