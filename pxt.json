@@ -1,6 +1,6 @@
 {
     "name": "pxt-calliope-jacdac",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Jacdac for Calliope mini onboard sensors",
     "dependencies": {
         "core": "*",
