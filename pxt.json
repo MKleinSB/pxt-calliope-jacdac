@@ -5,12 +5,12 @@
     "dependencies": {
         "core": "*",
         "v3": "*",
-        "jacdac": "github:microsoft/pxt-jacdac#v1.9.25",
-        "jacdac-light-level": "github:microsoft/pxt-jacdac/light-level",
-        "jacdac-temperature": "github:microsoft/pxt-jacdac/temperature",
-        "jacdac-magnetic-field-level": "github:microsoft/pxt-jacdac/magnetic-field-level",
-        "jacdac-accelerometer": "github:microsoft/pxt-jacdac/accelerometer",
-        "jacdac-sound-level": "github:microsoft/pxt-jacdac/sound-level"
+        "jacdac": "github:microsoft/pxt-jacdac#v1.9.26",
+        "jacdac-light-level": "github:microsoft/pxt-jacdac/light-level#v1.9.26",
+        "jacdac-temperature": "github:microsoft/pxt-jacdac/temperature#v1.9.26",
+        "jacdac-magnetic-field-level": "github:microsoft/pxt-jacdac/magnetic-field-level#v1.9.26",
+        "jacdac-accelerometer": "github:microsoft/pxt-jacdac/accelerometer#v1.9.26",
+        "jacdac-sound-level": "github:microsoft/pxt-jacdac/sound-level#v1.9.26"
     },
     "files": [
         "README.md",
@@ -25,7 +25,7 @@
     ],
     "public": true,
     "targetVersions": {
-        "target": "6.0.27",
+        "target": "6.0.28",
         "targetId": "calliopemini"
     },
     "supportedTargets": [
